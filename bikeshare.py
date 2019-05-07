@@ -19,7 +19,7 @@ def get_filters():
     # Get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     while True:
         global city
-        city = input("\nWhich city? - Chicago, New York City or Washington? ").lower()
+        city = input("\nWhich city are you interested in? - Chicago, New York City or Washington? ").lower()
         if city in ('chicago', 'new york city', 'washington'):
             break
         else:
