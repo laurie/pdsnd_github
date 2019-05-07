@@ -1,11 +1,10 @@
+## :biking_woman: :bike: :biking_man: US Bikeshare Data :biking_woman: :bike: :biking_man:
+
 ### Date created
 This project was compiled as part of [Udacity's Programming for Data Science Nanodegree Program](https://eu.udacity.com/course/programming-for-data-science-nanodegree--nd104) during Feb through May 2019
 
-### Project Title
-US Bikeshare Data :biking_woman: :bike: :biking_man:
-
 ### Description
-This project is a python script that analyses the data related to a bike sharing business in three US cities, producing results based on user input.
+This project is a python script that analyses the data related to a bike sharing business in three US cities, producing results based on user input
 
 ### Files used
 Data provided via Udacity by [Motivate](https://www.motivateco.com/)
