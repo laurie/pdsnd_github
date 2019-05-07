@@ -1,5 +1,5 @@
 ### Date created
-This project was compiled as part of Udacity's Programming for Data Science Nanodegree Program during Feb through May 2019
+This project was compiled as part of [Udacity's Programming for Data Science Nanodegree Program](https://eu.udacity.com/course/programming-for-data-science-nanodegree--nd104) during Feb through May 2019
 
 ### Project Title
 US Bikeshare Data :biking_woman: :bike: :biking_man:
@@ -17,4 +17,26 @@ Raw data files for each city can be accessed as follows:
 - Washington - https://www.capitalbikeshare.com/system-data
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+These following sites were consulted in order to put the script together successfully:
+
+https://stackoverflow.com/questions/48590268/pandas-get-the-most-frequent-values-of-a-column
+
+https://teamtreehouse.com/community/i-am-getting-an-error-saying-break-outside-loop
+
+https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/
+
+https://www.w3schools.com/python/python_conditions.asp
+
+https://wiki.python.org/moin/KeyError
+
+https://knowledge.udacity.com/questions/37770
+
+https://wiki.python.org/moin/WhileLoop
+
+https://www.pythonlearn.com/html-008/cfbook006.html
+
+https://python-reference.readthedocs.io/en/latest/docs/operators/addition_assignment.html
+
+https://pandas.pydata.org/pandas-docs/stable/getting_started/basics.html
+
+https://www.shanelynn.ie/using-pandas-dataframe-creating-editing-viewing-data-in-python/
